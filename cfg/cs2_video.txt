@@ -8,7 +8,7 @@
 	"setting.gpu_level"		"3"
 	"setting.knowndevice"		"0"
 	"setting.defaultres"		"1280"
-	"setting.defaultresheight"		"800"
+	"setting.defaultresheight"		"1024"
 	"setting.refreshrate_numerator"		"165001"
 	"setting.refreshrate_denominator"		"1000"
 	"setting.fullscreen"		"1"
@@ -30,6 +30,6 @@
 	"setting.videocfg_hdr_detail"		"-1"
 	"setting.videocfg_fsr_detail"		"0"
 	"setting.r_low_latency"		"2"
-	"setting.aspectratiomode"		"2"
+	"setting.aspectratiomode"		"0"
 	"setting.monitor_index"		"0"
 }
